@@ -1,6 +1,6 @@
 Databricks-14-Days-AI-Challenge:
 
-This repository documents my hands-on journey through the 14 Days AI Challenge, focused on building an enterprise-grade Databricks Lakehouse architecture for large-scale ecommerce data ingestion, transformation, and using AI capabilities of Databricks.
+This repository documents my hands-on journey through the 14 Days AI Challenge featuring 14 Python notebooks, focused on building an enterprise-grade Databricks Lakehouse architecture for large-scale ecommerce data ingestion, transformation, and using AI capabilities of Databricks.
 
 The project demonstrates: - Real-world data engineering workflows - Unity Catalog + Volumes based ingestion - Bronze → Silver → Gold architecture - Apache Spark (PySpark) fundamentals - Preparation for NLP, Sentiment Analysis & Power BI integration
 
